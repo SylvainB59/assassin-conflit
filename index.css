@@ -12,3 +12,10 @@ div h2 {
     font-weight: bolder;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+div img {
+    align-items: center;
+    border-top-color: red;
+    border-bottom-color: navy;
+    border-right-color: black;
+    border-left-color: yellowgreen;
+}
